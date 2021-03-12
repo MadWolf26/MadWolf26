@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zakhar
+- 👀 I’m interested in js and python
+- 🌱 I’m currently learning js and react
+- 💞️ I’m looking to collaborate on with other learning people
+- 📫 How to reach me E-mail: aleksandrukzakhar@gmail.com, Telegram: +380676698907, Discord: #7446
